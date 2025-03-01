@@ -1,0 +1,7 @@
+Flask
+Pillow
+requests
+flask[async]
+psycopg2
+minio
+Werkzeug
